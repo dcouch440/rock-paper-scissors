@@ -1,5 +1,8 @@
 # Rock Paper Scissors
+
 #### *Co-Created By: David Couch*
+#### *Co-Created By: Jon Stump*
+#### *Co-Created By: Kerry Lang*
 #### *Finds the winner of Rock Paper Scissors*
 * * * 
 
@@ -12,7 +15,6 @@ This is an application for learning TDD with ruby while attending Epicodus codin
 * Rspec
 
 * * *
-
 
 
 ## Installation : 
@@ -46,7 +48,7 @@ git clone https://github.com/dcouch440/rock-paper-scissors.git
     border-radius: 5px; 
     border: 1px solid #d4ecf1; 
     margin-bottom: 12px"
-> 
+>
   <span 
     style="
       font-size: 12px; 
@@ -67,7 +69,6 @@ git clone https://github.com/dcouch440/rock-paper-scissors.git
   If you have any problems make sure your HTTPS code is correct! The example above might not be the most recent HTTPS code!
 </div>
 
-
 * Then after the process is completed use the command.
 
 ``` bash
@@ -84,26 +85,26 @@ gem install bundler
 ``` bash
 bundle
 ```
+
 * Then from the terminal you can run logical code through the terminal by typing
+
 ```bash
 ruby "file goes here (no quotes)"
 ```
 
 ## Addition comments:
-* Created on 2/23/21
+* Created on 2/24/21
 
 
 * * *
 
 ## Contact Information
-_David Couch: [Email](dcouch440@gmail.com)_
-_Jo Miller: [Email](joannadawnmiller@gmail.com)_## Addition comments:
-
+_David Couch: [Email](dcouch440@gmail.com)_ \
+_Kerry Lang: [Email](klang812@gmail.com)_ \
+_Jon Stump: [Email](jmstump@gmail.com)_
 * * *
 
-## License:
-> *&copy; David Couch, 2021*
+## License
+> [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)\
+> Jon Stump, David Couch, Kerry Lang &copy; 2021
 
-Licensed under [MIT license](https://mit-license.org/)
-
-* * *
