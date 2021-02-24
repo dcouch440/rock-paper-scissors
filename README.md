@@ -13,7 +13,7 @@ This is an application for learning TDD with ruby while attending Epicodus codin
 ## Technologies used
 * Ruby
 * Rspec
-
+* pry
 * * *
 
 
