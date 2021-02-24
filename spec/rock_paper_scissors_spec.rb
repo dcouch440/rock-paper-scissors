@@ -24,7 +24,7 @@ describe('RPS') do
   describe("#check_input") do
     it("checking user input to make sure its valid input") do
       game = RPS.new()
-      expect(game.check_input?("x")).to(eq(false))
+      expect(game.check_input?("x")).to(eq(true))
     end
   end
 end
