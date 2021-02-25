@@ -32,5 +32,3 @@ class RPS
     @actions.sample
   end
 end
-game = RPS.new()
-puts game.wins?('rock', game.computer)
